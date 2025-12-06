@@ -1,8 +1,8 @@
-# Gun Detection System - README
+# Smart-Surveillance-and-Alert-System - README
 
 ## 📌 Project Overview
 
-This project is a **Gun Detection System** that uses computer vision and deep learning to detect weapons (such as pistols and rifles) in images or video streams. The system can be used for safety monitoring applications such as CCTV surveillance.
+This project is a **Smart-Surveillance-and-Alert-System** that uses computer vision and deep learning to detect weapons (such as pistols and rifles) in images or video streams. The system can be used for safety monitoring applications such as CCTV surveillance.
 
 ---
 
